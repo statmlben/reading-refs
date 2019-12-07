@@ -15,3 +15,5 @@ Methodology
 - code: https://github.com/fmfn/BayesianOptimization
 
 [Robust Bi-Tempered Logistic Loss Based on Bregman Divergences](https://arxiv.org/pdf/1906.03361.pdf)
+
+[AP-Perf: Incorporating Generic Performance Metrics in Differentiable Learning](https://arxiv.org/pdf/1912.00965.pdf)
