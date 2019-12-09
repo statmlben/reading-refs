@@ -20,9 +20,11 @@ https://arxiv.org/pdf/1912.00965.pdf
 12-19 [Practical Bayesian Optimization of Machine Learning Algorithms](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 - code: https://github.com/fmfn/BayesianOptimization
 
+02-19 [Domain-Adversarial Training of Neural Networks](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)
+
 Optimization
 --------
 
-12-19 [Minimizing a quadratic over a sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
+12-19 [Minimizing a Quadratic over A Sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
 
 12-19 [Quadratic Programming Over Ellipsoids](https://arxiv.org/pdf/1711.04401.pdf)
