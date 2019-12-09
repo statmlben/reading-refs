@@ -21,5 +21,6 @@ https://arxiv.org/pdf/1912.00965.pdf
 - code: https://github.com/fmfn/BayesianOptimization
 
 Optimization
+--------
 
 12-19 [Minimizing a quadratic over a sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
