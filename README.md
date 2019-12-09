@@ -24,4 +24,5 @@ Optimization
 --------
 
 12-19 [Minimizing a quadratic over a sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
+
 12-19 [Quadratic Programming Over Ellipsoids](https://arxiv.org/pdf/1711.04401.pdf)
