@@ -28,3 +28,8 @@ Optimization
 12-19 [Minimizing a Quadratic over A Sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
 
 12-19 [Quadratic Programming Over Ellipsoids](https://arxiv.org/pdf/1711.04401.pdf)
+
+Inference
+--------
+
+12-19 [The Likelihood Ratio Test in High-dimensional Logistic Regression is Asymptotically a Rescaled Chi-square](https://link.springer.com/content/pdf/10.1007%2Fs00440-018-00896-9.pdf)
