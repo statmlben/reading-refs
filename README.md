@@ -34,3 +34,8 @@ Inference
 12-19 [The Likelihood Ratio Test in High-dimensional Logistic Regression is Asymptotically a Rescaled Chi-square](https://link.springer.com/content/pdf/10.1007%2Fs00440-018-00896-9.pdf)
 
 12-19 [On High-dimensional Constrained Maximum Likelihood Inference](https://www.asc.ohio-state.edu/zhu.219/manuscript/inference.pdf)
+
+Coding
+--------
+
+12-19 [Fine-tuned BERT in Keras with Tensorflow hub](https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b)
