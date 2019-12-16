@@ -2,6 +2,9 @@
 
 Statistical learning theory
 ------
+12-19 [How Much Over-parameterization Is Sufficient to Learn
+Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
+
 01-19 [Concentration inequalities and asymptotic results for ratio type empirical processes](https://projecteuclid.org/euclid.aop/1151418495)
 
 06-19 [Benign Overfitting in Linear Regression](https://arxiv.org/abs/1906.11300)
