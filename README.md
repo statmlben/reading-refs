@@ -16,6 +16,9 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 Methodology
 ------
+12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
+](https://arxiv.org/pdf/1911.12436.pdf)
+
 12-19 [Self-Taught Object Localization with Deep Networks](https://arxiv.org/pdf/1409.3964.pdf)
 
 12-19 [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
