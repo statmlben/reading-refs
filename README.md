@@ -52,5 +52,7 @@ Inference
 
 Coding
 --------
+12-19 [scikit-multilearn: A scikit-based Python environment for
+performing multi-label classification](http://www.jmlr.org/papers/volume20/17-100/17-100.pdf)
 
 12-19 [Fine-tuned BERT in Keras with Tensorflow hub](https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b)
