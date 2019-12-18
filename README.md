@@ -2,6 +2,8 @@
 
 Statistical learning theory
 ------
+12-19 [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
+
 12-19 [Reconciling modern machine learning practice
 and the bias-variance trade-off](https://arxiv.org/pdf/1812.11118.pdf)
 
