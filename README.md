@@ -2,6 +2,7 @@
 
 Statistical learning theory
 ------
+12-19 [On Methods of Sieves And Penalization](https://projecteuclid.org/download/pdf_1/euclid.aos/1030741085)
 12-19 [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
 
 12-19 [Reconciling modern machine learning practice
