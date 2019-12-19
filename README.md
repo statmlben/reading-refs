@@ -2,6 +2,8 @@
 
 Statistical learning theory
 ------
+12-19 [Calculus of variation](https://www.reed.edu/physics/faculty/wheeler/documents/Classical%20Field%20Theory/Class%20Notes/Field%20Theory%20Chapter%205.pdf)
+
 12-19 [On Methods of Sieves And Penalization](https://projecteuclid.org/download/pdf_1/euclid.aos/1030741085)
 
 12-19 [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
