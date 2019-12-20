@@ -48,6 +48,7 @@ Optimization
 
 Inference
 --------
+12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
 
 12-19 [The Likelihood Ratio Test in High-dimensional Logistic Regression is Asymptotically a Rescaled Chi-square](https://link.springer.com/content/pdf/10.1007%2Fs00440-018-00896-9.pdf)
 
