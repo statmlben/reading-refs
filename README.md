@@ -60,3 +60,5 @@ Coding
 performing multi-label classification](http://www.jmlr.org/papers/volume20/17-100/17-100.pdf)
 
 12-19 [Fine-tuned BERT in Keras with Tensorflow hub](https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b)
+
+12-19 [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
