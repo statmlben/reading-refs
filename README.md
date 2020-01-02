@@ -19,6 +19,7 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178.pdf)
 
+01-20 [Understanding Deep Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
 
 Methodology
 ------
