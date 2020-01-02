@@ -58,6 +58,8 @@ Inference
 
 12-19 [On High-dimensional Constrained Maximum Likelihood Inference](https://www.asc.ohio-state.edu/zhu.219/manuscript/inference.pdf)
 
+01-20 [Fisher sharp null hypothesis](https://stats.stackexchange.com/questions/281200/is-fisher-sharp-null-hypothesis-testable)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
