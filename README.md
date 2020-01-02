@@ -39,6 +39,7 @@ Methodology
 
 02-19 [Domain-Adversarial Training of Neural Networks](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)
 
+01-20 [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178.pdf)
 Optimization
 --------
 
