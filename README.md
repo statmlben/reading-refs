@@ -17,6 +17,9 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 06-19 [Benign Overfitting in Linear Regression](https://arxiv.org/abs/1906.11300)
 
+01-20 [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178.pdf)
+
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -39,7 +42,6 @@ Methodology
 
 02-19 [Domain-Adversarial Training of Neural Networks](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)
 
-01-20 [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178.pdf)
 Optimization
 --------
 
