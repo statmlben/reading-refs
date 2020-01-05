@@ -43,6 +43,8 @@ Methodology
 
 02-19 [Domain-Adversarial Training of Neural Networks](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)
 
+01-20 [Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://arxiv.org/pdf/1906.10075.pdf)
+
 Optimization
 --------
 
