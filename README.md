@@ -21,6 +21,14 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Understanding Deep Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
 
+01-20 [Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping](http://www.jmlr.org/papers/volume20/18-063/18-063.pdf)
+
+01-20 [Tunability: Importance of Hyperparameters of Machine Learning Algorithms](http://www.jmlr.org/papers/volume20/18-444/18-444.pdf)
+
+01-20 [Variance-based Regularization with Convex Objectives](http://www.jmlr.org/papers/volume20/17-750/17-750.pdf)
+
+01-20 [Deep Optimal Stopping](http://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -45,12 +53,23 @@ Methodology
 
 01-20 [Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://arxiv.org/pdf/1906.10075.pdf)
 
+01- 20 [Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices](http://www.jmlr.org/papers/volume20/18-875/18-875.pdf)
+
+01-20 [Multi-class Heterogeneous Domain Adaptation](http://www.jmlr.org/papers/volume20/13-580/13-580.pdf)
+
+01-20 [An Efficient Two Step Algorithm for High Dimensional
+Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/volume20/18-460/18-460.pdf)
+
 Optimization
 --------
 
 12-19 [Minimizing a Quadratic over A Sphere](http://users.clas.ufl.edu/hager/papers/Regular/sphere.pdf)
 
 12-19 [Quadratic Programming Over Ellipsoids](https://arxiv.org/pdf/1711.04401.pdf)
+
+01-20 [Non-Convex Matrix Completion and Related Problems via Strong Duality](http://www.jmlr.org/papers/volume20/17-611/17-611.pdf)
+
+01-20 [Scalable Interpretable Multi-Response Regression via SEED](http://www.jmlr.org/papers/volume20/18-200/18-200.pdf)
 
 Inference
 --------
@@ -72,3 +91,5 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 12-19 [Fine-tuned BERT in Keras with Tensorflow hub](https://towardsdatascience.com/bert-in-keras-with-tensorflow-hub-76bcbc9417b)
 
 12-19 [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
+
+01-20 [PyOD: A Python Toolbox for Scalable Outlier Detection](http://www.jmlr.org/papers/volume20/19-011/19-011.pdf)
