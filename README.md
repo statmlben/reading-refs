@@ -55,8 +55,6 @@ Methodology
 
 01- 20 [Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices](http://www.jmlr.org/papers/volume20/18-875/18-875.pdf)
 
-01-20 [Multi-class Heterogeneous Domain Adaptation](http://www.jmlr.org/papers/volume20/13-580/13-580.pdf)
-
 01-20 [An Efficient Two Step Algorithm for High Dimensional
 Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/volume20/18-460/18-460.pdf)
 
