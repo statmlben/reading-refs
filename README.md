@@ -29,6 +29,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Deep Optimal Stopping](http://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
 
+01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
