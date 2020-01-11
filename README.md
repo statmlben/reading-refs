@@ -93,3 +93,5 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 12-19 [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
 
 01-20 [PyOD: A Python Toolbox for Scalable Outlier Detection](http://www.jmlr.org/papers/volume20/19-011/19-011.pdf)
+
+01-20 [imbalanced-learning](https://github.com/scikit-learn-contrib/imbalanced-learn#id23)
