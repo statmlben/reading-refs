@@ -95,3 +95,5 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 01-20 [PyOD: A Python Toolbox for Scalable Outlier Detection](http://www.jmlr.org/papers/volume20/19-011/19-011.pdf)
 
 01-20 [imbalanced-learning](https://github.com/scikit-learn-contrib/imbalanced-learn#id23)
+
+01-20 [Surpriselib: Python Library for Recommender System](http://surpriselib.com/)
