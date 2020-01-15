@@ -60,6 +60,9 @@ Methodology
 01-20 [An Efficient Two Step Algorithm for High Dimensional
 Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/volume20/18-460/18-460.pdf)
 
+01-20 [Semi-Supervised Learning with Deep Generative Models
+](https://arxiv.org/abs/1406.5298)
+
 Optimization
 --------
 
