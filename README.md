@@ -31,6 +31,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
 
+01-20 [Consistency of the MLE under mixture models](https://arxiv.org/pdf/1607.01251.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
