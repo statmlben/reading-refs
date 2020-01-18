@@ -35,6 +35,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Unbiased Generative Semi-Supervised Learning](http://jmlr.csail.mit.edu/papers/volume15/foxroberts14a/foxroberts14a.pdf)
 
+01-20 [The Effect of Model Misspecification on Semi-Supervised Classification](https://ieeexplore.ieee.org/document/5728822)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
