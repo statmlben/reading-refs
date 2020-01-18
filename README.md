@@ -33,6 +33,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Consistency of the MLE under mixture models](https://arxiv.org/pdf/1607.01251.pdf)
 
+01-20 [Unbiased Generative Semi-Supervised Learning](http://jmlr.csail.mit.edu/papers/volume15/foxroberts14a/foxroberts14a.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
