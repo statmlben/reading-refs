@@ -67,6 +67,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 01-20 [Semi-Supervised Learning with Deep Generative Models
 ](https://arxiv.org/abs/1406.5298)
 
+01-20 [Semi-supervised Learning by Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf)
+
 Optimization
 --------
 
