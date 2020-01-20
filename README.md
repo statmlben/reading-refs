@@ -71,6 +71,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 01-20 [Semi-supervised Learning by Entropy Minimization](http://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf)
 
+01-20 [Reliable Decision Support using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)
+
 Optimization
 --------
 
