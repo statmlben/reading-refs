@@ -73,6 +73,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 01-20 [Reliable Decision Support using Counterfactual Models](https://arxiv.org/pdf/1703.10651.pdf)
 
+01-20 [Improved Variational Inference with Inverse Autoregressive Flow](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)
+
 Optimization
 --------
 
