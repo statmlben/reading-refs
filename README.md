@@ -84,6 +84,7 @@ Optimization
 
 01-20 [Scalable Interpretable Multi-Response Regression via SEED](http://www.jmlr.org/papers/volume20/18-200/18-200.pdf)
 
+01-20 [Optimization for deep learning: theory and algorithms](https://arxiv.org/pdf/1912.08957.pdf)
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
