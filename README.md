@@ -50,6 +50,8 @@ Methodology
 
 09-19 [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
 
+09-19 [Are we really making much progress? A worrying analysis of recent neural recommendation approaches](https://dl.acm.org/doi/10.1145/3298689.3347058)
+
 10-19 [Robust Bi-Tempered Logistic Loss Based on Bregman Divergences](https://arxiv.org/pdf/1906.03361.pdf)
 
 12-19 [AP-Perf: Incorporating Generic Performance Metrics in Differentiable Learning](https://arxiv.org/pdf/1912.00965.pdf)
