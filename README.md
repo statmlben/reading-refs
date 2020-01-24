@@ -77,6 +77,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 01-20 [Improved Variational Inference with Inverse Autoregressive Flow](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)
 
+01-20 [Learning to Classify Ordinal Data: The Data Replication Method](http://www.jmlr.org/papers/volume8/cardoso07a/cardoso07a.pdf)
+
 Optimization
 --------
 
