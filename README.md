@@ -83,6 +83,9 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 01-20 [Classification with imperfect training labels](https://arxiv.org/pdf/1805.11505.pdf)
 
+01-20 [Texygen: A Benchmarking Platform for Text Generation Models
+](https://arxiv.org/abs/1802.01886)
+
 Optimization
 --------
 
