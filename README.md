@@ -102,6 +102,8 @@ Optimization
 02-20 [Convergence Guarantees for a Class of Non-convex and Non-smooth Optimization Problems
 ](http://www.jmlr.org/papers/volume20/18-762/18-762.pdf)
 
+02-20 [Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals](http://www.jmlr.org/papers/volume20/18-616/18-616.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
