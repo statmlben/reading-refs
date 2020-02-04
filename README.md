@@ -86,6 +86,9 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 01-20 [Texygen: A Benchmarking Platform for Text Generation Models
 ](https://arxiv.org/abs/1802.01886)
 
+02-20 [Multiclass Boosting: Margins, Codewords, Losses, and Algorithms
+](http://www.jmlr.org/papers/volume20/17-137/17-137.pdf)
+
 Optimization
 --------
 
