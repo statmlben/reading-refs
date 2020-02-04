@@ -99,6 +99,9 @@ Optimization
 
 01-20 [Optimization for deep learning: theory and algorithms](https://arxiv.org/pdf/1912.08957.pdf)
 
+02-20 [Convergence Guarantees for a Class of Non-convex and Non-smooth Optimization Problems
+](http://www.jmlr.org/papers/volume20/18-762/18-762.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
