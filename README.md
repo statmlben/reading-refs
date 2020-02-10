@@ -6,30 +6,17 @@ Statistical learning theory
 
 12-19 [On Methods of Sieves And Penalization](https://projecteuclid.org/download/pdf_1/euclid.aos/1030741085)
 
-12-19 [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
-
-12-19 [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/pdf/1912.02292.pdf)
-
-12-19 [How Much Over-parameterization Is Sufficient to Learn
-Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
-
 01-19 [Concentration inequalities and asymptotic results for ratio type empirical processes](https://projecteuclid.org/euclid.aop/1151418495)
 
 06-19 [Benign Overfitting in Linear Regression](https://arxiv.org/abs/1906.11300)
 
 01-20 [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178.pdf)
 
-01-20 [Understanding Deep Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
-
 01-20 [Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping](http://www.jmlr.org/papers/volume20/18-063/18-063.pdf)
 
 01-20 [Tunability: Importance of Hyperparameters of Machine Learning Algorithms](http://www.jmlr.org/papers/volume20/18-444/18-444.pdf)
 
 01-20 [Variance-based Regularization with Convex Objectives](http://www.jmlr.org/papers/volume20/17-750/17-750.pdf)
-
-01-20 [Deep Optimal Stopping](http://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
-
-01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
 
 01-20 [Consistency of the MLE under mixture models](https://arxiv.org/pdf/1607.01251.pdf)
 
@@ -133,3 +120,21 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 01-20 [imbalanced-learning](https://github.com/scikit-learn-contrib/imbalanced-learn#id23)
 
 01-20 [Surpriselib: Python Library for Recommender System](http://surpriselib.com/)
+
+Deep Learning theory
+---------
+02-20 [Approximation and Estimation for High-Dimensional Deep Learning Networks](https://arxiv.org/pdf/1809.03090.pdf)
+
+12-19 [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
+
+12-19 [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/pdf/1912.02292.pdf)
+
+12-19 [How Much Over-parameterization Is Sufficient to Learn
+Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
+
+01-20 [Understanding Deep Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
+
+01-20 [Deep Optimal Stopping](http://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
+
+01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
+
