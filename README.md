@@ -138,3 +138,4 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
 
+01-20 [Error bounds for approximations with deep ReLU networks](https://arxiv.org/pdf/1610.01145.pdf)
