@@ -74,6 +74,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 02-20 [Multiclass Boosting: Margins, Codewords, Losses, and Algorithms
 ](http://www.jmlr.org/papers/volume20/17-137/17-137.pdf)
 
+02-20 [Concavity of the Ordinal Log Likelihood](https://www.tandfonline.com/doi/abs/10.1080/01621459.1981.10477613)
+
 Optimization
 --------
 
