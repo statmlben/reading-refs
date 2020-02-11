@@ -24,8 +24,6 @@ Statistical learning theory
 
 01-20 [The Effect of Model Misspecification on Semi-Supervised Classification](https://ieeexplore.ieee.org/document/5728822)
 
-01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
-
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -139,3 +137,7 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 01-20 [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf)
 
 01-20 [Error bounds for approximations with deep ReLU networks](https://arxiv.org/pdf/1610.01145.pdf)
+
+Ranking
+---------
+01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
