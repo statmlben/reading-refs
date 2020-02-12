@@ -94,6 +94,12 @@ Optimization
 
 02-20 [Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals](http://www.jmlr.org/papers/volume20/18-616/18-616.pdf)
 
+02-20 [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/pdf/1811.03804.pdf)
+
+02-20 [Towards moderate overparameterization: global convergence guarantees for training shallow neural networks](https://arxiv.org/pdf/1902.04674.pdf)
+
+02-20 [GLOBAL OPTIMALITY CONDITIONS FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BJk7Gf-CZ)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
