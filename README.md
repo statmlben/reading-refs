@@ -129,6 +129,8 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 01-20 [Surpriselib: Python Library for Recommender System](http://surpriselib.com/)
 
+02-20 [Modeling and Generating Random Vectors with Arbitrary Marginal Distributions and Correlation Matrix](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.281&rep=rep1&type=pdf)
+
 Deep Learning theory
 ---------
 02-20 [Approximation and Estimation for High-Dimensional Deep Learning Networks](https://arxiv.org/pdf/1809.03090.pdf)
