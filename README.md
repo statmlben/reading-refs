@@ -24,6 +24,8 @@ Statistical learning theory
 
 01-20 [The Effect of Model Misspecification on Semi-Supervised Classification](https://ieeexplore.ieee.org/document/5728822)
 
+02-20 [Variance of asymmetric U-statistic](https://www.stat.berkeley.edu/~bartlett/courses/2013spring-stat210b/notes/5notes.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
