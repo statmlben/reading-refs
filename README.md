@@ -80,6 +80,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 02-20 [Variational Autoencoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
+02-20 [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
 Optimization
 --------
 
