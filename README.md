@@ -26,6 +26,8 @@ Statistical learning theory
 
 02-20 [Variance of asymmetric U-statistic](https://www.stat.berkeley.edu/~bartlett/courses/2013spring-stat210b/notes/5notes.pdf)
 
+02-20 [Invariance reduces Variance: Understanding Data Augmentation in Deep Learning and Beyond](https://arxiv.org/pdf/1907.10905.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
