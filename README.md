@@ -28,7 +28,9 @@ Statistical learning theory
 
 02-20 [Invariance reduces Variance: Understanding Data Augmentation in Deep Learning and Beyond](https://arxiv.org/pdf/1907.10905.pdf)
 
-02-20 [Small samples, and the margin of error](https://terrytao.wordpress.com/2008/10/10/small-samples-and-the-margin-of-error/)
+02-20 [Small samples, and the margin of error by Terence Tao](https://terrytao.wordpress.com/2008/10/10/small-samples-and-the-margin-of-error/)
+
+02-20 [Talagrand’s concentration inequality by Terence Tao](https://terrytao.wordpress.com/2009/06/09/talagrands-concentration-inequality/)
 
 Methodology
 ------
