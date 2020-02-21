@@ -28,6 +28,8 @@ Statistical learning theory
 
 02-20 [Invariance reduces Variance: Understanding Data Augmentation in Deep Learning and Beyond](https://arxiv.org/pdf/1907.10905.pdf)
 
+02-20 [Small samples, and the margin of error](https://terrytao.wordpress.com/2008/10/10/small-samples-and-the-margin-of-error/)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
