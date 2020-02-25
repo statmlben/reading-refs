@@ -143,6 +143,11 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 02-20 [Modeling and Generating Random Vectors with Arbitrary Marginal Distributions and Correlation Matrix](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.281&rep=rep1&type=pdf)
 
+02-20 [Python library: Keras GPT-2](https://github.com/CyberZHG/keras-gpt-2)
+
+02-20 [Python library: gpt2-client](https://github.com/rish-16/gpt2client)
+
+
 Deep Learning theory
 ---------
 02-20 [Approximation and Estimation for High-Dimensional Deep Learning Networks](https://arxiv.org/pdf/1809.03090.pdf)
