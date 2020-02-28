@@ -1,6 +1,6 @@
 # Reading references
 
-*we are neither slave nor enemy of the statistical theory.*
+*We are neither slave nor enemy of the statistical theory.*
 
 Statistical learning theory
 ------
