@@ -1,5 +1,7 @@
 # Reading references
 
+*we are neither slave nor enemy of the statistical theory.*
+
 Statistical learning theory
 ------
 12-19 [Calculus of variation](https://www.reed.edu/physics/faculty/wheeler/documents/Classical%20Field%20Theory/Class%20Notes/Field%20Theory%20Chapter%205.pdf)
