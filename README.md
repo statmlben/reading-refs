@@ -114,6 +114,8 @@ Optimization
 
 02-20 [GLOBAL OPTIMALITY CONDITIONS FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BJk7Gf-CZ)
 
+02-20 [Target Propagation in Recurrent Neural Networks](http://jmlr.org/papers/volume21/18-141/18-141.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
