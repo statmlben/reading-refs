@@ -34,6 +34,8 @@ Statistical learning theory
 
 02-20 [Talagrand’s concentration inequality by Terence Tao](https://terrytao.wordpress.com/2009/06/09/talagrands-concentration-inequality/)
 
+03-20 [Inference for multivariate normal mixtures](https://www.sciencedirect.com/science/article/pii/S0047259X08002728)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
