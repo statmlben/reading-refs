@@ -153,6 +153,7 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 02-20 [Python library: gpt2-client](https://github.com/rish-16/gpt2client)
 
+03-20 [Sparse_entropy_loss in Keras](https://github.com/Tony607/keras_sparse_categorical_crossentropy)
 
 Deep Learning theory
 ---------
