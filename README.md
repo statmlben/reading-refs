@@ -36,6 +36,8 @@ Statistical learning theory
 
 03-20 [Inference for multivariate normal mixtures](https://www.sciencedirect.com/science/article/pii/S0047259X08002728)
 
+03-20 [Triangle Array CLT](https://www.stat.berkeley.edu/users/pitman/s205f02/lecture10.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
