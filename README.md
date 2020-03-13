@@ -94,6 +94,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 02-20 [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
+03-12 [Darts: Differentiable architecture search](https://arxiv.org/pdf/1806.09055.pdf)
+
 Optimization
 --------
 
