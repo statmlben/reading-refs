@@ -38,6 +38,8 @@ Statistical learning theory
 
 03-20 [Triangle Array CLT](https://www.stat.berkeley.edu/users/pitman/s205f02/lecture10.pdf)
 
+03-20 [A probability analysis on the value of unlabeled data for classification problems](http://tongzhang-ml.org/papers/icml00-unlabeled.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -95,6 +97,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 02-20 [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
 03-12 [Darts: Differentiable architecture search](https://arxiv.org/pdf/1806.09055.pdf)
+
 
 Optimization
 --------
