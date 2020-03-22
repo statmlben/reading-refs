@@ -98,6 +98,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 03-12 [Darts: Differentiable architecture search](https://arxiv.org/pdf/1806.09055.pdf)
 
+03-12 [LEARNING DEEP REPRESENTATIONS BY MUTUAL INFORMATION ESTIMATION AND MAXIMIZATION](https://arxiv.org/pdf/1808.06670.pdf)
 
 Optimization
 --------
