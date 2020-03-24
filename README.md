@@ -40,6 +40,7 @@ Statistical learning theory
 
 03-20 [A probability analysis on the value of unlabeled data for classification problems](http://tongzhang-ml.org/papers/icml00-unlabeled.pdf)
 
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -100,6 +101,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 03-12 [LEARNING DEEP REPRESENTATIONS BY MUTUAL INFORMATION ESTIMATION AND MAXIMIZATION](https://arxiv.org/pdf/1808.06670.pdf)
 
+
 Optimization
 --------
 
@@ -126,6 +128,7 @@ Optimization
 
 02-20 [Target Propagation in Recurrent Neural Networks](http://jmlr.org/papers/volume21/18-141/18-141.pdf)
 
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
@@ -139,6 +142,7 @@ Inference
 01-20 [Double/debiased machine learning for treatment and structural parameters](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ectj.12097)
 
 02-20 [Likelihood Ratio Tests for a Large Directed Acyclic Graph](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1623042)
+
 
 Coding
 --------
@@ -163,6 +167,7 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 03-20 [Sparse_entropy_loss in Keras](https://github.com/Tony607/keras_sparse_categorical_crossentropy)
 
+
 Deep Learning theory
 ---------
 02-20 [Approximation and Estimation for High-Dimensional Deep Learning Networks](https://arxiv.org/pdf/1809.03090.pdf)
@@ -183,6 +188,7 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 01-20 [Error bounds for approximations with deep ReLU networks](https://arxiv.org/pdf/1610.01145.pdf)
 
 01-20 [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](https://arxiv.org/pdf/1903.08560.pdf)
+
 
 Ranking
 ---------
