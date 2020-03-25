@@ -195,3 +195,5 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 Ranking
 ---------
 01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
+
+03-20 [A Multiclass Classification Approach to Label Ranking](https://arxiv.org/pdf/2002.09420.pdf)
