@@ -101,6 +101,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 03-12 [LEARNING DEEP REPRESENTATIONS BY MUTUAL INFORMATION ESTIMATION AND MAXIMIZATION](https://arxiv.org/pdf/1808.06670.pdf)
 
+03-12 [Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/files/aistats2020.pdf)
 
 Optimization
 --------
