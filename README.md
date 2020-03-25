@@ -40,6 +40,7 @@ Statistical learning theory
 
 03-20 [A probability analysis on the value of unlabeled data for classification problems](http://tongzhang-ml.org/papers/icml00-unlabeled.pdf)
 
+03-20 [On Generalization Bounds of a Family of Recurrent Neural Networks](https://arxiv.org/pdf/1910.12947.pdf)
 
 Methodology
 ------
