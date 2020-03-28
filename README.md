@@ -42,6 +42,8 @@ Statistical learning theory
 
 03-20 [On Generalization Bounds of a Family of Recurrent Neural Networks](https://arxiv.org/pdf/1910.12947.pdf)
 
+03-20 [EM algorithm: Andrew Ng](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
