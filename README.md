@@ -147,6 +147,9 @@ Inference
 
 02-20 [Likelihood Ratio Tests for a Large Directed Acyclic Graph](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1623042)
 
+04-20 [LOCO: The Good, the Bad, and the Ugly](http://www.stat.cmu.edu/~ryantibs/talks/loco-2018.pdf)
+
+04-20 [Distribution-Free Predictive Inference for Regression](https://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)
 
 Coding
 --------
