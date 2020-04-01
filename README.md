@@ -128,7 +128,7 @@ Optimization
 
 02-20 [Towards moderate overparameterization: global convergence guarantees for training shallow neural networks](https://arxiv.org/pdf/1902.04674.pdf)
 
-02-20 [GLOBAL OPTIMALITY CONDITIONS FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BJk7Gf-CZ)
+02-20 [Global optimality conditions for deep neural networks](https://openreview.net/pdf?id=BJk7Gf-CZ)
 
 02-20 [Target Propagation in Recurrent Neural Networks](http://jmlr.org/papers/volume21/18-141/18-141.pdf)
 
