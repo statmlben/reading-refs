@@ -134,6 +134,7 @@ Optimization
 
 02-20 [Target Propagation in Recurrent Neural Networks](http://jmlr.org/papers/volume21/18-141/18-141.pdf)
 
+30-20 [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/pdf/1901.00279.pdf)
 
 Inference
 --------
