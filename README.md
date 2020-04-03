@@ -108,6 +108,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Optimized Score Transformation for Fair Classification](https://arxiv.org/abs/1906.00066)
 
+04-20 [Fair Decisions Despite Imperfect Predictions](https://arxiv.org/pdf/1902.02979.pdf)
+
 Optimization
 --------
 
