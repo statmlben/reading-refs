@@ -138,6 +138,8 @@ Optimization
 
 03-20 [Elimination of All Bad Local Minima in Deep Learning](https://arxiv.org/pdf/1901.00279.pdf)
 
+04-20 [Ordered SGD: A New Stochastic Optimization Framework for Empirical Risk Minimization](https://arxiv.org/pdf/1907.04371.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
