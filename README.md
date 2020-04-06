@@ -44,6 +44,7 @@ Statistical learning theory
 
 03-20 [EM algorithm: Andrew Ng](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
 
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
@@ -109,6 +110,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 04-20 [Optimized Score Transformation for Fair Classification](https://arxiv.org/abs/1906.00066)
 
 04-20 [Fair Decisions Despite Imperfect Predictions](https://arxiv.org/pdf/1902.02979.pdf)
+
+04-20 [Identifying and Correcting Label Bias in Machine Learning](https://arxiv.org/pdf/1901.04966.pdf)
 
 Optimization
 --------
