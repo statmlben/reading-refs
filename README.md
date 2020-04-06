@@ -113,6 +113,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Identifying and Correcting Label Bias in Machine Learning](https://arxiv.org/pdf/1901.04966.pdf)
 
+04-20 [Imputation estimators for unnormalized models with missing data](https://arxiv.org/pdf/1903.03630.pdf)
+
 Optimization
 --------
 
