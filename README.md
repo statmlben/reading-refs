@@ -115,6 +115,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Imputation estimators for unnormalized models with missing data](https://arxiv.org/pdf/1903.03630.pdf)
 
+04-20 [Risk Bounds for Learning Multiple Components with Permutation-Invariant Losses](https://arxiv.org/pdf/1904.07594.pdf)
+
 Optimization
 --------
 
