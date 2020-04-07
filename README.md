@@ -117,6 +117,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Risk Bounds for Learning Multiple Components with Permutation-Invariant Losses](https://arxiv.org/pdf/1904.07594.pdf)
 
+
 Optimization
 --------
 
@@ -147,6 +148,7 @@ Optimization
 
 04-20 [Ordered SGD: A New Stochastic Optimization Framework for Empirical Risk Minimization](https://arxiv.org/pdf/1907.04371.pdf)
 
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
@@ -164,6 +166,8 @@ Inference
 04-20 [LOCO: The Good, the Bad, and the Ugly](http://www.stat.cmu.edu/~ryantibs/talks/loco-2018.pdf)
 
 04-20 [Distribution-Free Predictive Inference for Regression](https://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)
+
+04-20 [The conditional permutation test for independence while controlling for confounders](https://arxiv.org/pdf/1807.05405.pdf)
 
 Coding
 --------
