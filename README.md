@@ -148,6 +148,11 @@ Optimization
 
 04-20 [Ordered SGD: A New Stochastic Optimization Framework for Empirical Risk Minimization](https://arxiv.org/pdf/1907.04371.pdf)
 
+04-20 [A Unified Convergence Analysis of Block Successive Minimization Methods for Nonsmooth Optimization](https://arxiv.org/pdf/1209.2385.pdf)
+
+04-20 [On Faster Convergence of Cyclic Block Coordinate Descent-type Methods for Strongly Convex Minimization](http://www.jmlr.org/papers/volume18/17-157/17-157.pdf)
+
+04-20 [Biconvex Sets and Optimization with Biconvex Functions - A Survey and Extensions](http://www2.math.uni-wuppertal.de/~klamroth/publications/gopfkl07.pdf)
 
 Inference
 --------
