@@ -178,6 +178,8 @@ Inference
 
 04-20 [Permutation Tests for Studying Classifier Performance](http://www.jmlr.org/papers/volume11/ojala10a/ojala10a.pdf)
 
+04-20 [Bias in permutation test](https://stats.stackexchange.com/questions/102967/feature-selection-with-partial-permutation)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
