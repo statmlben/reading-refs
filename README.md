@@ -176,6 +176,8 @@ Inference
 
 04-20 [All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf)
 
+04-20 [Permutation Tests for Studying Classifier Performance](http://www.jmlr.org/papers/volume11/ojala10a/ojala10a.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
