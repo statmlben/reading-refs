@@ -174,6 +174,8 @@ Inference
 
 04-20 [The conditional permutation test for independence while controlling for confounders](https://arxiv.org/pdf/1807.05405.pdf)
 
+04-20 [All Models are Wrong, but Many are Useful: Learning a Variable’s Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
