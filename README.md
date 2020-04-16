@@ -44,6 +44,7 @@ Statistical learning theory
 
 03-20 [EM algorithm: Andrew Ng](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
 
+04-20 [On the Doubt about Margin Explanation of Boosting](https://arxiv.org/pdf/1009.3613.pdf)
 
 Methodology
 ------
@@ -117,6 +118,7 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Risk Bounds for Learning Multiple Components with Permutation-Invariant Losses](https://arxiv.org/pdf/1904.07594.pdf)
 
+04-20 [Optimal Margin Distribution Machine](https://arxiv.org/pdf/1604.03348.pdf)
 
 Optimization
 --------
