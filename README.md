@@ -227,6 +227,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 01-20 [Surprises in High-Dimensional Ridgeless Least Squares Interpolation](https://arxiv.org/pdf/1903.08560.pdf)
 
+04-20 [Nonparametric regression using deep neural networks with ReLU activation function
+](https://arxiv.org/pdf/1708.06633.pdf)
 
 Ranking
 ---------
