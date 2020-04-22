@@ -46,6 +46,8 @@ Statistical learning theory
 
 04-20 [On the Doubt about Margin Explanation of Boosting](https://arxiv.org/pdf/1009.3613.pdf)
 
+04-20 [On Generalization Bounds of a Family of Recurrent Neural Networks](https://arxiv.org/pdf/1910.12947.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
