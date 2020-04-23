@@ -186,6 +186,8 @@ Inference
 
 04-20 [Advances and Challenges in Conformal Inference](http://www.stat.cmu.edu/~ryantibs/talks/conformal-2019.pdf)
 
+04-20 [Two-sample Testing Using Deep Learning](https://arxiv.org/pdf/1910.06239.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
