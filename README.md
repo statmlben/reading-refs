@@ -48,6 +48,8 @@ Statistical learning theory
 
 04-20 [On Generalization Bounds of a Family of Recurrent Neural Networks](https://arxiv.org/pdf/1910.12947.pdf)
 
+04-20 [A nonasymptotic law of iterated logarithm for general M-estimators](https://arxiv.org/pdf/1903.06576.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
