@@ -196,6 +196,9 @@ Inference
 
 04-20 [Two-sample Testing Using Deep Learning](https://arxiv.org/pdf/1910.06239.pdf)
 
+05-20 [SIMPLE: Statistical Inference on Membership Profiles in Large Networks
+](https://arxiv.org/abs/1910.01734)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
