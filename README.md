@@ -130,6 +130,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 05-20 [Meta-Learning in Neural Networks: A Survey
 ](https://arxiv.org/pdf/2004.05439.pdf)
 
+05-20 [Dropout as a Low-Rank Regularizer for Matrix Factorization](https://arxiv.org/pdf/1710.05092.pdf)
+
 Optimization
 --------
 
