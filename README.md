@@ -201,6 +201,8 @@ Inference
 05-20 [SIMPLE: Statistical Inference on Membership Profiles in Large Networks
 ](https://arxiv.org/abs/1910.01734)
 
+05-20 [Combining p-values via averaging](https://arxiv.org/pdf/1212.4966.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
