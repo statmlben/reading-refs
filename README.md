@@ -52,6 +52,8 @@ Statistical learning theory
 
 05-20 [Rethinking Bias-Variance Trade-off for Generalization of Neural Networks](https://arxiv.org/pdf/2002.11328.pdf)
 
+05-20 [Convergence rates of least squares regression estimators with heavy-tailed errors
+](https://www.stat.washington.edu/jaw/JAW-papers/jaw-han.aos.2019.pdf)
 
 Methodology
 ------
