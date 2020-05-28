@@ -206,6 +206,9 @@ Inference
 05-20 [Combining p-values via averaging](https://arxiv.org/pdf/1212.4966.pdf)
 
 05-20 [High-dimensional variable selection](https://projecteuclid.org/download/pdfview_1/euclid.aos/1247663752)
+
+05-20 [False Discovery Rate Control via Data Splitting](https://arxiv.org/pdf/2002.08542.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
