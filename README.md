@@ -205,6 +205,7 @@ Inference
 
 05-20 [Combining p-values via averaging](https://arxiv.org/pdf/1212.4966.pdf)
 
+05-20 [High-dimensional variable selection](https://projecteuclid.org/download/pdfview_1/euclid.aos/1247663752)
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
