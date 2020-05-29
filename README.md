@@ -134,6 +134,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 05-20 [Dropout as a Low-Rank Regularizer for Matrix Factorization](https://arxiv.org/pdf/1710.05092.pdf)
 
+05-20 [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf)
+
 Optimization
 --------
 
