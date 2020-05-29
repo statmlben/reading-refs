@@ -209,6 +209,8 @@ Inference
 
 05-20 [False Discovery Rate Control via Data Splitting](https://arxiv.org/pdf/2002.08542.pdf)
 
+05-20 [Multiple Data Splitting for Testing](https://statistics.stanford.edu/sites/g/files/sbiybj6031/f/2019-03.pdf)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
