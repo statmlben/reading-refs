@@ -172,6 +172,8 @@ Optimization
 
 04-20 [Biconvex Sets and Optimization with Biconvex Functions - A Survey and Extensions](http://www2.math.uni-wuppertal.de/~klamroth/publications/gopfkl07.pdf)
 
+06-01 [Deep Learning without Poor Local Minima](http://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
