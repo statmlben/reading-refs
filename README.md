@@ -174,6 +174,8 @@ Optimization
 
 06-01 [Deep Learning without Poor Local Minima](http://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf)
 
+06-20 [Spurious local minima exist for almost all over-parameterized neural networks.](https://arxiv.org/pdf/1911.01413.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
