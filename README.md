@@ -179,6 +179,8 @@ Optimization
 
 06-20 [Spurious local minima exist for almost all over-parameterized neural networks.](https://arxiv.org/pdf/1911.01413.pdf)
 
+06-20 [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
