@@ -245,6 +245,7 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 03-20 [Sparse_entropy_loss in Keras](https://github.com/Tony607/keras_sparse_categorical_crossentropy)
 
+06-20 [Bokeh](https://docs.bokeh.org/en/latest/#)
 
 Deep Learning theory
 ---------
