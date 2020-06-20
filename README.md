@@ -222,6 +222,8 @@ Inference
 
 05-20 [Multiple Data Splitting for Testing](https://statistics.stanford.edu/sites/g/files/sbiybj6031/f/2019-03.pdf)
 
+06-20 [TIGHT BOUNDS ON EXPECTED ORDER STATISTICS](Two theorems for inferences about the normal distribution with ap- plications in acceptance sampling)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
