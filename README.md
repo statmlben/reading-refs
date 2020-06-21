@@ -181,6 +181,9 @@ Optimization
 
 06-20 [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf)
 
+06-20 [The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses
+](https://arxiv.org/pdf/1512.07797.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
