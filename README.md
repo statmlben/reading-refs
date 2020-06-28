@@ -139,6 +139,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 06-20 [The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks](https://arxiv.org/abs/1705.08790)
 
+06-20 [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
+
 Optimization
 --------
 
