@@ -141,6 +141,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 06-20 [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
 
+06-20 [Canonical Correlation Analysis for Multilabel Classification: A Least-Squares Formulation, Extensions, and Analysis](https://ieeexplore.ieee.org/abstract/document/5557883)
+
 Optimization
 --------
 
