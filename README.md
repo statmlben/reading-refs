@@ -145,6 +145,10 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 06-20 [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362.pdf)
 
+06-20 [AutoAugment](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf)
+
+06-20 [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)
+
 Optimization
 --------
 
