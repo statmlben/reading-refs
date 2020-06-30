@@ -149,6 +149,9 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 06-20 [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)
 
+06-20 [The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses
+](https://arxiv.org/pdf/1512.07797.pdf)
+
 Optimization
 --------
 
@@ -191,8 +194,7 @@ Optimization
 
 06-20 [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf)
 
-06-20 [The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses
-](https://arxiv.org/pdf/1512.07797.pdf)
+06-20 [Musings on Deep Learning: Properties of SGD](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-067-v4.pdf)
 
 Inference
 --------
