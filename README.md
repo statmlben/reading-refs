@@ -143,6 +143,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 06-20 [Canonical Correlation Analysis for Multilabel Classification: A Least-Squares Formulation, Extensions, and Analysis](https://ieeexplore.ieee.org/abstract/document/5557883)
 
+06-20 [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362.pdf)
+
 Optimization
 --------
 
