@@ -196,6 +196,8 @@ Optimization
 
 06-20 [Musings on Deep Learning: Properties of SGD](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-067-v4.pdf)
 
+06-20 [AUC Optimization vs. Error Rate Minimization](https://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
