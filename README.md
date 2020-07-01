@@ -198,6 +198,8 @@ Optimization
 
 06-20 [AUC Optimization vs. Error Rate Minimization](https://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf)
 
+06-20 [Non-Convex Learning via Stochastic Gradient Langevin Dynamics: A Nonasymptotic Analysis](https://arxiv.org/pdf/1702.03849.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
