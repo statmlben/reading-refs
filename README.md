@@ -152,6 +152,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 06-20 [The Lovász Hinge: A Novel Convex Surrogate for Submodular Losses
 ](https://arxiv.org/pdf/1512.07797.pdf)
 
+07-20 [Learning Data Manipulation for Augmentation and Weighting](https://papers.nips.cc/paper/9706-learning-data-manipulation-for-augmentation-and-weighting.pdf)
+
 Optimization
 --------
 
