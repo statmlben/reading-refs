@@ -154,6 +154,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Learning Data Manipulation for Augmentation and Weighting](https://papers.nips.cc/paper/9706-learning-data-manipulation-for-augmentation-and-weighting.pdf)
 
+07-20 [Losses for Image Segmentation](https://lars76.github.io/neural-networks/object-detection/losses-for-segmentation/)
+
 Optimization
 --------
 
