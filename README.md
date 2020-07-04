@@ -249,6 +249,8 @@ Inference
 
 06-20 [Tight bounds on expected order statistics](https://www.mit.edu/~dbertsim/papers/MomentProblems/Tight%20bounds%20on%20expected%20order%20statistics.pdf)
 
+07-20 [Cauchy Combination Test: A Powerful Test With Analytic p-Value Calculation Under Arbitrary Dependency Structures](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1554485?src=recsys)
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
