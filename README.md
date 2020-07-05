@@ -56,6 +56,8 @@ Statistical learning theory
 05-20 [Convergence rates of least squares regression estimators with heavy-tailed errors
 ](https://www.stat.washington.edu/jaw/JAW-papers/jaw-han.aos.2019.pdf)
 
+07-20 [Convergence Rate of Optimal Quantization and Application to the Clustering Performance of the Empirical Measure](http://jmlr.org/papers/volume21/18-804/18-804.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
