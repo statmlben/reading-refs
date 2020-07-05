@@ -156,6 +156,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Losses for Image Segmentation](https://lars76.github.io/neural-networks/object-detection/losses-for-segmentation/)
 
+07-20 [On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent](http://jmlr.org/papers/volume21/18-794/18-794.pdf)
+
 Optimization
 --------
 
