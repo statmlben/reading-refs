@@ -318,4 +318,5 @@ To-dos
 ---------
 07-20 [A Sample Complexity Separation between Non-Convex and Convex Meta-Learning](https://arxiv.org/pdf/2002.11172v1.pdf)
 
-07-20 [DECOUPLED WEIGHT DECAY REGULARIZATION](https://arxiv.org/pdf/1711.05101.pdf)
+07-20 [Decoupled weight decay regulazation](https://arxiv.org/pdf/1711.05101.pdf)
+
