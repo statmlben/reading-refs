@@ -317,6 +317,7 @@ Meta-learning
 
 07-20 [A Perspective View and Survey of Meta-Learning](https://link.springer.com/content/pdf/10.1023/A:1019956318069.pdf)
 
+07-20 [META-LEARNING WITH NETWORK PRUNING FOR OVERFITTING REDUCTION](https://openreview.net/pdf?id=B1gcblSKwB)
 
 To-dos
 ---------
