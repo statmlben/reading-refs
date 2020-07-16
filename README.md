@@ -132,9 +132,6 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 04-20 [Optimal Margin Distribution Machine](https://arxiv.org/pdf/1604.03348.pdf)
 
-05-20 [Meta-Learning in Neural Networks: A Survey
-](https://arxiv.org/pdf/2004.05439.pdf)
-
 05-20 [Dropout as a Low-Rank Regularizer for Matrix Factorization](https://arxiv.org/pdf/1710.05092.pdf)
 
 05-20 [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf)
@@ -313,6 +310,13 @@ Ranking
 01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
 
 03-20 [A Multiclass Classification Approach to Label Ranking](https://arxiv.org/pdf/2002.09420.pdf)
+
+Meta-learning
+---------
+05-20 [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439.pdf)
+
+07-20 [A Perspective View and Survey of Meta-Learning](https://link.springer.com/content/pdf/10.1023/A:1019956318069.pdf)
+
 
 To-dos
 ---------
