@@ -157,6 +157,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent](http://jmlr.org/papers/volume21/18-794/18-794.pdf)
 
+07-20 [Regularization via Structural Label Smoothing](https://arxiv.org/pdf/2001.01900.pdf)
+
 Optimization
 --------
 
