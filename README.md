@@ -211,6 +211,8 @@ Optimization
 
 07-20 [Non-Convex Min-Max Optimization: Provable Algorithms and Applications in Machine Learning](https://arxiv.org/pdf/1810.02060.pdf)
 
+07-20 [Convergence Properties of the K-Means Algorithms](http://papers.nips.cc/paper/989-convergence-properties-of-the-k-means-algorithms.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
