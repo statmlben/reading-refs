@@ -159,6 +159,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Regularization via Structural Label Smoothing](https://arxiv.org/pdf/2001.01900.pdf)
 
+07-20 [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+
 Optimization
 --------
 
