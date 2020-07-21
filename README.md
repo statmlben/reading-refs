@@ -163,6 +163,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Convex Calibrated Surrogates for the Multi-Label F-Measure](https://proceedings.icml.cc/static/paper_files/icml/2020/2842-Paper.pdf)
 
+07-20 [Surrogate Regret Bounds for Bipartite Ranking via Strongly Proper Losses](http://www.jmlr.org/papers/volume15/agarwal14b/agarwal14b.pdf)
+
 Optimization
 --------
 
