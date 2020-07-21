@@ -161,6 +161,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
 
+07-20 [Convex Calibrated Surrogates for the Multi-Label F-Measure](https://proceedings.icml.cc/static/paper_files/icml/2020/2842-Paper.pdf)
+
 Optimization
 --------
 
