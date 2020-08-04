@@ -165,6 +165,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 07-20 [Surrogate Regret Bounds for Bipartite Ranking via Strongly Proper Losses](http://www.jmlr.org/papers/volume15/agarwal14b/agarwal14b.pdf)
 
+08-20 [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+
 Optimization
 --------
 
