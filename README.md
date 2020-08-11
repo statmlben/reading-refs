@@ -325,6 +325,8 @@ Ranking
 
 03-20 [A Multiclass Classification Approach to Label Ranking](https://arxiv.org/pdf/2002.09420.pdf)
 
+08-20 [Bayes-Optimal Scorers for Bipartite Ranking](http://proceedings.mlr.press/v35/menon14.pdf)
+
 Meta-learning
 ---------
 05-20 [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439.pdf)
