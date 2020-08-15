@@ -343,3 +343,12 @@ To-dos
 
 07-20 [Decoupled weight decay regulazation](https://arxiv.org/pdf/1711.05101.pdf)
 
+08-20 [Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization](https://arxiv.org/pdf/2002.05359.pdf)
+
+08-20 [Active Learning for Nonlinear System Identification
+with Guarantees](https://arxiv.org/pdf/2006.10277.pdf)
+
+08-20 [On Gradient Descent Ascent for Nonconvex-Concave
+Minimax Problems](https://arxiv.org/pdf/1906.00331.pdf)
+
+08-20 [Continuous-time Lower Bounds for Gradient-based Algorithms](https://arxiv.org/pdf/2002.03546.pdf)
