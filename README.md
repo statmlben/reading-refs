@@ -169,6 +169,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [A Theoretical and Practical Framework for Regression and Classification from Truncated Samples](http://proceedings.mlr.press/v108/ilyas20a/ilyas20a.pdf)
 
+08-20 [Conditional Linear Regression](http://proceedings.mlr.press/v108/calderon20a/calderon20a.pdf)
+
 Optimization
 --------
 
