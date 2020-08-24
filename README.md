@@ -171,6 +171,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [Conditional Linear Regression](http://proceedings.mlr.press/v108/calderon20a/calderon20a.pdf)
 
+08-20 [Logistic regression with peer-group effects via inference in higher-order Ising models](http://proceedings.mlr.press/v108/daskalakis20a/daskalakis20a.pdf)
+
 Optimization
 --------
 
