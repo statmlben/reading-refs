@@ -173,6 +173,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [Logistic regression with peer-group effects via inference in higher-order Ising models](http://proceedings.mlr.press/v108/daskalakis20a/daskalakis20a.pdf)
 
+08-20 [Sketching Transformed Matrices with Applications to Natural Language Processing](http://proceedings.mlr.press/v108/liang20a/liang20a.pdf)
+
 Optimization
 --------
 
