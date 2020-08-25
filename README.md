@@ -175,6 +175,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [Sketching Transformed Matrices with Applications to Natural Language Processing](http://proceedings.mlr.press/v108/liang20a/liang20a.pdf)
 
+08-20 [Statistical and Computational Rates in Graph Logistic Regression](http://proceedings.mlr.press/v108/berthet20a/berthet20a.pdf)
+
 Optimization
 --------
 
