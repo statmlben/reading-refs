@@ -233,6 +233,8 @@ Optimization
 
 08-20 [A Variational Perspective on Accelerated Methods in Optimization](https://arxiv.org/pdf/1603.04245.pdf)
 
+08-20 [EM Converges for a Mixture of Many Linear Regressions](http://proceedings.mlr.press/v108/kwon20a/kwon20a.pdf)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
