@@ -177,6 +177,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [Statistical and Computational Rates in Graph Logistic Regression](http://proceedings.mlr.press/v108/berthet20a/berthet20a.pdf)
 
+08-20 [A Survey on Transfer Learning](http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+
 Optimization
 --------
 
