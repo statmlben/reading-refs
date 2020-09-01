@@ -179,6 +179,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [A Survey on Transfer Learning](http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
+08-20 [Composite quantile regression and the oracle model selection theory](https://projecteuclid.org/download/pdfview_1/euclid.aos/1211819558)
+
 Optimization
 --------
 
