@@ -183,6 +183,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 08-20 [Composite quantile regression and the oracle model selection theory](https://projecteuclid.org/download/pdfview_1/euclid.aos/1211819558)
 
+09-20 [Directional Pruning of Deep Neural Networks](https://arxiv.org/pdf/2006.09358.pdf)
+
 Optimization
 --------
 
