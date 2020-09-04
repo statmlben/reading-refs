@@ -58,6 +58,8 @@ Statistical learning theory
 
 07-20 [Convergence Rate of Optimal Quantization and Application to the Clustering Performance of the Empirical Measure](http://jmlr.org/papers/volume21/18-804/18-804.pdf)
 
+09-20 [Early Stopping for Nonparametric Testing](https://arxiv.org/pdf/1805.09950.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
