@@ -185,6 +185,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 09-20 [Directional Pruning of Deep Neural Networks](https://arxiv.org/pdf/2006.09358.pdf)
 
+09-20 [A Sparse Ising Model with Covariates](http://dept.stat.lsa.umich.edu/~jizhu/pubs/Cheng-Biometrics14.pdf)
+
 Optimization
 --------
 
