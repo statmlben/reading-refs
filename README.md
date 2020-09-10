@@ -189,6 +189,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 09-20 [AUC in multiclass classification](https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/#:~:text=The%20area%20under%20the%20ROC%20curve%20(AUC)%20is%20a%20useful,to%20the%20multi%2Dclass%20setting.)
 
+09-20 [A survey on multi-output regression](http://cig.fi.upm.es/articles/2015/Borchani-2015-WDMKD.pdf)
+
 Optimization
 --------
 
