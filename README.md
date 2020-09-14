@@ -255,6 +255,8 @@ Optimization
 
 09-20 [Stochastic Successive Convex Approximation for Non-Convex Constrained Stochastic Optimization](https://arxiv.org/pdf/1801.08266.pdf)
 
+09-20 [Lp-Box ADMM: A Versatile Framework for Integer Programming](https://ieeexplore.ieee.org/document/8378001)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
