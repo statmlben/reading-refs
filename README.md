@@ -191,6 +191,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 09-20 [A survey on multi-output regression](http://cig.fi.upm.es/articles/2015/Borchani-2015-WDMKD.pdf)
 
+09-20 [Split learning for health: Distributed deep learning without sharing raw patient data](https://arxiv.org/pdf/1812.00564.pdf)
+
 Optimization
 --------
 
