@@ -60,6 +60,8 @@ Statistical learning theory
 
 09-20 [Early Stopping for Nonparametric Testing](https://arxiv.org/pdf/1805.09950.pdf)
 
+09-20 [Cross-Validation for Correlated Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1801451)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
