@@ -375,6 +375,10 @@ Meta-learning
 
 07-20 [META-LEARNING WITH NETWORK PRUNING FOR OVERFITTING REDUCTION](https://openreview.net/pdf?id=B1gcblSKwB)
 
+Dataset
+---------
+09-20 [Digital Twins](https://www.kaggle.com/anshumoudgil/iiot-or-industry-4-0-shrink-wrapper-concept)
+
 To-read
 ---------
 09-20 [Cross-Validation for Correlated Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2020.1801451?casa_token=F7ELCwn52QUAAAAA:GU3rsHUi3qImwkWy_VaV9SkrzPG6O0Fuw_eGgPlrFxGvsgFVAqdbAifUYvfr8YOAQ1DkdWwu6WMebg)
