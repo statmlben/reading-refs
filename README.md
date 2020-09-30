@@ -265,6 +265,8 @@ Optimization
 
 09-20 [Local Feature Selection for Data Classification](https://ccc.inaoep.mx/~ariel/Local%20Feature%20Selection%20for%20Data%20Classification.pdf)
 
+10-20 [extreme points in concave programming](https://scicomp.stackexchange.com/questions/10676/minimizing-a-negative-definite-quadratic-function-with-specified-bounds)
+
 Inference
 --------
 12-19 [Quadratic Form of Random Variable](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
