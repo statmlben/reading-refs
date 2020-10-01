@@ -197,6 +197,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 09-20 [Split learning for health: Distributed deep learning without sharing raw patient data](https://arxiv.org/pdf/1812.00564.pdf)
 
+10-01 [Interpretation of Neural Networks is Fragile](https://arxiv.org/pdf/1710.10547.pdf)
+
 Optimization
 --------
 
