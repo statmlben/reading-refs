@@ -385,6 +385,10 @@ Dataset
 ---------
 09-20 [Digital Twins](https://www.kaggle.com/anshumoudgil/iiot-or-industry-4-0-shrink-wrapper-concept)
 
+Biostatistics
+------------
+10-20 [Commentary: Two-sample Mendelian randomization: opportunities and challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005949/pdf/dyw127.pdf)
+
 To-read
 ---------
 09-20 [Cross-Validation for Correlated Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2020.1801451?casa_token=F7ELCwn52QUAAAAA:GU3rsHUi3qImwkWy_VaV9SkrzPG6O0Fuw_eGgPlrFxGvsgFVAqdbAifUYvfr8YOAQ1DkdWwu6WMebg)
