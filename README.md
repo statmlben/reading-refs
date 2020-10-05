@@ -392,3 +392,9 @@ Biostatistics
 To-read
 ---------
 09-20 [Cross-Validation for Correlated Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2020.1801451?casa_token=F7ELCwn52QUAAAAA:GU3rsHUi3qImwkWy_VaV9SkrzPG6O0Fuw_eGgPlrFxGvsgFVAqdbAifUYvfr8YOAQ1DkdWwu6WMebg)
+
+10-20 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+10-20 [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/pdf/1912.02757.pdf)
+
+10-20 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
