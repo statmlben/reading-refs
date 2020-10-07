@@ -64,6 +64,8 @@ Statistical learning theory
 
 09-20 [Approximation of Continuous Functions](https://www.math.tamu.edu/~francis.narcowich/m641/m641_notes/continuous2014.pdf)
 
+10-20 [ABOUT THE CONSTANTS IN TALAGRAND’S CONCENTRATION INEQUALITIES FOR EMPIRICAL PROCESSES](https://projecteuclid.org/download/pdf_1/euclid.aop/1019160263)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
