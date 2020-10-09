@@ -203,6 +203,9 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 10-20 [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/pdf/1912.02757.pdf)
 
+10-20 [Deep Clustering](https://divamgupta.com/unsupervised-learning/2019/03/08/an-overview-of-deep-learning-based-clustering-techniques.html)
+
+10-20 [Imbalanced clustering](https://www.researchgate.net/post/Can_anyone_recommend_algorithms_to_deal_with_unbalanced_clusters_for_classification)
 
 Optimization
 --------
