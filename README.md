@@ -201,6 +201,9 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 10-01 [Interpretation of Neural Networks is Fragile](https://arxiv.org/pdf/1710.10547.pdf)
 
+10-20 [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/pdf/1912.02757.pdf)
+
+
 Optimization
 --------
 
@@ -318,6 +321,8 @@ Inference
 
 07-20 [The Blessings of Multiple Causes](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1686987?src=recsys)
 
+
+
 Coding
 --------
 12-19 [scikit-multilearn: A scikit-based Python environment for
@@ -395,6 +400,6 @@ To-read
 ---------
 10-20 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-10-20 [Deep Ensembles: A Loss Landscape Perspective](https://arxiv.org/pdf/1912.02757.pdf)
-
 10-20 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+
+10-20 [CLUSTERING WITH DEEP LEARNING: TAXONOMY AND NEW METHODS](https://openreview.net/pdf/e03d46184bc51997e6756874bdcba2cedcfa8606.pdf)
