@@ -353,6 +353,8 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 
 06-20 [Bokeh](https://docs.bokeh.org/en/latest/#)
 
+10-20 [Output hidden layers](https://stackoverflow.com/questions/41711190/keras-how-to-get-the-output-of-each-layer)
+
 Deep Learning theory
 ---------
 02-20 [Approximation and Estimation for High-Dimensional Deep Learning Networks](https://arxiv.org/pdf/1809.03090.pdf)
