@@ -407,6 +407,4 @@ To-read
 ---------
 10-20 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-10-20 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
-
 10-20 [CLUSTERING WITH DEEP LEARNING: TAXONOMY AND NEW METHODS](https://openreview.net/pdf/e03d46184bc51997e6756874bdcba2cedcfa8606.pdf)
