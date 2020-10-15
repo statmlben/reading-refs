@@ -64,7 +64,7 @@ Statistical learning theory
 
 09-20 [Approximation of Continuous Functions](https://www.math.tamu.edu/~francis.narcowich/m641/m641_notes/continuous2014.pdf)
 
-10-20 [ABOUT THE CONSTANTS IN TALAGRAND’S CONCENTRATION INEQUALITIES FOR EMPIRICAL PROCESSES](https://projecteuclid.org/download/pdf_1/euclid.aop/1019160263)
+10-20 [About the constants in Talagrand's concentration inequalities for empirical processes](https://projecteuclid.org/download/pdf_1/euclid.aop/1019160263)
 
 Methodology
 ------
