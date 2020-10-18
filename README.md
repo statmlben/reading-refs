@@ -66,6 +66,8 @@ Statistical learning theory
 
 10-20 [About the constants in Talagrand's concentration inequalities for empirical processes](https://projecteuclid.org/download/pdf_1/euclid.aop/1019160263)
 
+10-20 [lessons from the rademacher complexity for deep learning](https://openreview.net/pdf/P7Vk63koAhKvjNORtJzZ.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
