@@ -68,6 +68,8 @@ Statistical learning theory
 
 10-20 [lessons from the rademacher complexity for deep learning](https://openreview.net/pdf/P7Vk63koAhKvjNORtJzZ.pdf)
 
+10-20 [Measuring and testing dependence by correlation of distances](https://arxiv.org/pdf/0803.4101v1.pdf)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
