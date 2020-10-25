@@ -72,6 +72,8 @@ Statistical learning theory
 
 10-20 [On Tighter Generalization Bound for Deep Neural Networks: CNNs, ResNets, and Beyond](https://openreview.net/pdf?id=SJzwvoCqF7)
 
+10-20 [Generalization Bounds for Convolutional Neural Networks](https://arxiv.org/abs/1910.01487)
+
 Methodology
 ------
 12-19 [AR-Net: A simple Auto-Regressive Neural Network for time-series
