@@ -215,6 +215,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 10-20 [Imbalanced clustering](https://www.researchgate.net/post/Can_anyone_recommend_algorithms_to_deal_with_unbalanced_clusters_for_classification)
 
+10-20 [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/pdf/1602.07868.pdf)
+
 Optimization
 --------
 
