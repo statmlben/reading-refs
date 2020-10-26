@@ -391,6 +391,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 04-20 [Nonparametric regression using deep neural networks with ReLU activation function
 ](https://arxiv.org/pdf/1708.06633.pdf)
 
+10-20 [When Does Label Smoothing Help?](http://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf)
+
 Ranking
 ---------
 01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
