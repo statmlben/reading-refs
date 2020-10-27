@@ -401,14 +401,6 @@ Ranking
 
 08-20 [Bayes-Optimal Scorers for Bipartite Ranking](http://proceedings.mlr.press/v35/menon14.pdf)
 
-Meta-learning
----------
-05-20 [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439.pdf)
-
-07-20 [A Perspective View and Survey of Meta-Learning](https://link.springer.com/content/pdf/10.1023/A:1019956318069.pdf)
-
-07-20 [META-LEARNING WITH NETWORK PRUNING FOR OVERFITTING REDUCTION](https://openreview.net/pdf?id=B1gcblSKwB)
-
 Dataset
 ---------
 09-20 [Digital Twins](https://www.kaggle.com/anshumoudgil/iiot-or-industry-4-0-shrink-wrapper-concept)
