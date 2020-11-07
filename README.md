@@ -217,6 +217,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 10-20 [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/pdf/1602.07868.pdf)
 
+10-20 [The Maximum Separation Subspace in Sufficient Dimension Reduction with Categorical Response](https://www.jmlr.org/papers/volume21/17-788/17-788.pdf)
+
 Optimization
 --------
 
