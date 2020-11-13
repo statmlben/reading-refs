@@ -395,6 +395,8 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 
 10-20 [When Does Label Smoothing Help?](http://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf)
 
+11-20 [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
+
 Ranking
 ---------
 01-20 [Spectral method and regularized MLE are both optimal for top-K ranking](https://projecteuclid.org/download/pdfview_1/euclid.aos/1558425643)
