@@ -219,6 +219,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 10-20 [The Maximum Separation Subspace in Sufficient Dimension Reduction with Categorical Response](https://www.jmlr.org/papers/volume21/17-788/17-788.pdf)
 
+11-20 [Learning with Imperfect Data](https://cs.nyu.edu/~mohri/talks/mtv.pdf)
+
 Optimization
 --------
 
