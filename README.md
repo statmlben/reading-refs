@@ -221,6 +221,8 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 11-20 [Learning with Imperfect Data](https://cs.nyu.edu/~mohri/talks/mtv.pdf)
 
+11-20 [On Unexpectedness in Recommender Systems: Or How to Better Expect the Unexpected](https://dl.acm.org/doi/pdf/10.1145/2559952?casa_token=0vF07L4UU-kAAAAA:YS3eU6_s8Efm7Tu4VAOgtR9K3_rxCfUe7hdsVbKgzh8sgLgHZ9K1Xdt7h-NYJuLKnCAVEdEKdFuT)
+
 Optimization
 --------
 
