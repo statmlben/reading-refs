@@ -151,3 +151,4 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 
 12-20 [Graph-based Regularization on Embedding Layers for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3414067?casa_token=lSveJzXfe7AAAAAA:W2P3MckpGtZ6QzlgBJj7yDmzhImUIWZMgCOZIj4Wl174jungR7Kxij1FUxKRQ9nDOo4_lanUHP1n)
 
+12-20 [An Introduction to Graph Neural Network(GNN) For Analysing Structured Data](https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc)
