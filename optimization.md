@@ -69,3 +69,5 @@ Optimization
 10-20 [extreme points in concave programming](https://scicomp.stackexchange.com/questions/10676/minimizing-a-negative-definite-quadratic-function-with-specified-bounds)
 
 10-20 [Convergence analysis for coordinate descent](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/lectures/22-coord-desc.pdf)
+
+12-20 [Optimization by gradient boosting](https://arxiv.org/pdf/1707.05023.pdf)
