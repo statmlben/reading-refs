@@ -2,13 +2,10 @@
 
 *We are neither slave nor enemy of theory.*
 
-[Learning theory](learning_theory.md)
+[Learning theory](learning_theory.md) [Methodology](methodology.md)
 --------
 
-[Methodology](methodology.md)
---------
-
-[Optimizaton](optimizaton.md)
+[Optimizaton](optimization.md)
 --------
 
 [Inference](inference.md)
