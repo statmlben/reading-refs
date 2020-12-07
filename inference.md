@@ -44,3 +44,5 @@ Inference
 07-20 [Cauchy Combination Test: A Powerful Test With Analytic p-Value Calculation Under Arbitrary Dependency Structures](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1554485?src=recsys)
 
 07-20 [The Blessings of Multiple Causes](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1686987?src=recsys)
+
+12-20 [The Holdout Randomization Test: Principled and Easy Black Box Feature Selection](https://arxiv.org/pdf/1811.00645.pdf)
