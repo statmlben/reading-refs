@@ -26,3 +26,5 @@ performing multi-label classification](http://www.jmlr.org/papers/volume20/17-10
 10-20 [Output hidden layers](https://stackoverflow.com/questions/41711190/keras-how-to-get-the-output-of-each-layer)
 
 10-20 [Convolutional Autoencoders](https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/)
+
+12-20 [Intro to CNN using Keras to predict pneumonia](https://www.kaggle.com/sanwal092/intro-to-cnn-using-keras-to-predict-pneumonia)
