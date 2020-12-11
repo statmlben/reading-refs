@@ -26,3 +26,5 @@ Deep ReLU Networks?](https://arxiv.org/pdf/1911.12360.pdf)
 10-20 [When Does Label Smoothing Help?](http://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf)
 
 11-20 [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
+
+12-20 [Squared L2 Norm as Consistency Loss for Leveraging Augmented Data to Learn Robust and Invariant Representations](https://arxiv.org/pdf/2011.13052.pdf)
