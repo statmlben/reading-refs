@@ -154,3 +154,5 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 12-20 [An Introduction to Graph Neural Network(GNN) For Analysing Structured Data](https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc)
 
 12-20 [Robust Deep AUC Maximization: A New Surrogate Loss and Empirical Studies on Medical Image Classification](https://arxiv.org/pdf/2012.03173.pdf)
+
+12-20 [The Poisson binomial distribution -- Old & New](https://arxiv.org/pdf/1908.10024.pdf)
