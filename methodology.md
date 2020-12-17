@@ -156,3 +156,5 @@ Change Point Regression Models Without Grid Search](http://www.jmlr.org/papers/v
 12-20 [Robust Deep AUC Maximization: A New Surrogate Loss and Empirical Studies on Medical Image Classification](https://arxiv.org/pdf/2012.03173.pdf)
 
 12-20 [The Poisson binomial distribution -- Old & New](https://arxiv.org/pdf/1908.10024.pdf)
+
+12-20 [Learning with Noisy Labels](https://papers.nips.cc/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf)
