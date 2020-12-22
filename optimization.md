@@ -73,3 +73,5 @@ Optimization
 12-20 [Optimization by gradient boosting](https://arxiv.org/pdf/1707.05023.pdf)
 
 12-20 [Better Theory for SGD in the Nonconvex World](https://arxiv.org/pdf/2002.03329.pdf)
+
+12-20 [Theory of Deep Learning IIb: Optimization Properties of SGD](https://arxiv.org/pdf/1801.02254.pdf)
