@@ -75,3 +75,5 @@ Optimization
 12-20 [Better Theory for SGD in the Nonconvex World](https://arxiv.org/pdf/2002.03329.pdf)
 
 12-20 [Theory of Deep Learning IIb: Optimization Properties of SGD](https://arxiv.org/pdf/1801.02254.pdf)
+
+12-20 [Regularized M-estimators with Nonconvexity: Statistical and Algorithmic Theory for Local Optima](https://www.jmlr.org/papers/volume16/loh15a/loh15a.pdf)
