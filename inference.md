@@ -46,3 +46,5 @@ Inference
 07-20 [The Blessings of Multiple Causes](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1686987?src=recsys)
 
 12-20 [The Holdout Randomization Test: Principled and Easy Black Box Feature Selection](https://arxiv.org/pdf/1811.00645.pdf)
+
+01-21 [Two-sample tests for high-dimensional covariance matrices using both difference and ratio](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1609902188)
